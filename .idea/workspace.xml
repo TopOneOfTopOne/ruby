@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3514d5cb-7cb2-4b2e-855c-b111ba07b2d7" name="Default" comment="" />
-    <ignored path="advanced_buidling_blocks.iws" />
+    <list default="true" id="53ca0bc5-f567-4bd7-b587-42917cf6ed82" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tictactoe.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_buidling_blocks/.idea/workspace.xml" afterPath="$PROJECT_DIR$/advanced_buidling_blocks/.idea/workspace.xml" />
+    </list>
+    <ignored path="ruby.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,34 +17,48 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/advanced_buidling_blocks@enumerables.coverage" NAME="enumerables Coverage Results" MODIFIED="1453284972051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="advanced_buidling_blocks" />
-    <SUITE FILE_PATH="coverage/advanced_buidling_blocks@bubblesort.coverage" NAME="bubblesort Coverage Results" MODIFIED="1453219514053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="advanced_buidling_blocks" />
+    <SUITE FILE_PATH="coverage/ruby@tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1453884112990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@master_mind.coverage" NAME="master_mind Coverage Results" MODIFIED="1453889251703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="advanced_buidling_blocks" />
+    <favorites_list name="ruby" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="bubblesort.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bubblesort.rb">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tictactoe.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tictactoe.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="enumerables.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/enumerables.rb">
+      <file leaf-file-name="ruby-debug-ide.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ruby-debug-ide-0.6.0/lib/ruby-debug-ide.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41358024">
-              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="master_mind.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/master_mind.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64285713">
+              <caret line="113" column="53" selection-start-line="113" selection-start-column="53" selection-end-line="113" selection-end-column="53" />
+              <folding>
+                <element signature="e#337#600#0" expanded="false" />
+                <element signature="e#1604#1931#0" expanded="false" />
+                <element signature="e#1935#2232#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,11 +72,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bubblesort.rb" />
-        <option value="$PROJECT_DIR$/enumerables.rb" />
+        <option value="$PROJECT_DIR$/tictactoe.rb" />
+        <option value="$PROJECT_DIR$/master_mind.rb" />
       </list>
     </option>
   </component>
@@ -104,17 +124,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="advanced_buidling_blocks" />
+              <option name="myItemId" value="ruby" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="advanced_buidling_blocks" />
+              <option name="myItemId" value="ruby" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="advanced_buidling_blocks" />
+              <option name="myItemId" value="ruby" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -126,9 +146,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Ruby.enumerables">
-    <configuration default="false" name="bubblesort" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="advanced_buidling_blocks" />
+  <component name="RunManager" selected="Ruby.master_mind">
+    <configuration default="false" name="tictactoe" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -142,12 +162,12 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/bubblesort.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/tictactoe.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="enumerables" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="advanced_buidling_blocks" />
+    <configuration default="false" name="master_mind" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -161,7 +181,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/enumerables.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/master_mind.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -222,6 +242,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -231,91 +256,120 @@
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.bubblesort" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.enumerables" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.tictactoe" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.master_mind" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.enumerables" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.bubblesort" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.master_mind" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.tictactoe" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3514d5cb-7cb2-4b2e-855c-b111ba07b2d7" name="Default" comment="" />
-      <created>1453217505556</created>
+      <changelist id="53ca0bc5-f567-4bd7-b587-42917cf6ed82" name="Default" comment="" />
+      <created>1453618265983</created>
       <option name="number" value="Default" />
-      <updated>1453217505556</updated>
+      <updated>1453618265983</updated>
     </task>
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="63" width="1400" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39895698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899868" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899868" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899868" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899868" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39921975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/bubblesort.rb</url>
-          <line>5</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/bubblesort.rb</url>
-          <line>8</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tictactoe.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ruby-debug-ide-0.6.0/lib/ruby-debug-ide.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33256352">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ruby-debug-ide-0.6.0/lib/ruby-debug-ide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bubblesort.rb">
+    <entry file="file://$PROJECT_DIR$/master_mind.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enumerables.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41358024">
-          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.64285713">
+          <caret line="113" column="53" selection-start-line="113" selection-start-column="53" selection-end-line="113" selection-end-column="53" />
+          <folding>
+            <element signature="e#337#600#0" expanded="false" />
+            <element signature="e#1604#1931#0" expanded="false" />
+            <element signature="e#1935#2232#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
