@@ -116,4 +116,4 @@ class Master_mind
   end
 end
 
-Master_mind.new
+# Master_mind.new
