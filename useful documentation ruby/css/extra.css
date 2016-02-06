@@ -1,0 +1,102 @@
+/* RD extras CSS */
+.adzbox-main {
+background-color:#FFF;
+border:0 solid #333;
+float: right;
+height:600px;
+margin-right:-70px;
+margin-top:200px;
+/*width:160px; */
+
+}
+
+   .adzbox-main_ {
+margin-top:200px;
+
+}
+
+ ul.main-sub { 
+   margin: 0 0 0 20px;
+ }
+
+ #vulns-alert #vulns{
+   background-color: #c33 ! important;
+   width: 100%;
+   text-align: center;
+   }
+   #vulns-alert #vulns a {
+     color: #F99 ! important;
+   }
+
+   .guidelines  li {
+    padding-bottom: 0.5em ;
+    padding-top 0.5em ;
+  }
+
+  ul.guidelines  {
+    margin-bottom: 1em ;
+    margin-top 1em ;
+  }
+
+    #carbonads {
+    width:175px;
+  }
+
+  .carbon-img a {
+  width:175px;
+  }
+
+
+
+#carbonads {
+  position: fixed;
+/*  right: 1em; */
+/*  bottom: 100px; */
+  top: 200px;
+  display: block;
+  overflow: hidden;
+  padding: 1em;
+  width: 175px !important;
+  font-size: .9em;
+  line-height: 1.5;
+}
+
+  #carbonads a {
+    border-bottom: 0;
+  }
+
+  #carbonads span {
+    display: block;
+    overflow: hidden;
+  }
+
+  .carbon-text {
+    display: block;
+    margin-bottom: 1em;
+    text-align: left;
+  }
+
+  .carbon-img {
+    display: block;
+    margin-bottom: 1em;
+  }
+
+  .carbon-img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .carbon-poweredby {
+    display: block;
+    text-align: right;
+    font-size: .8em;
+  }
+
+
+  @media (max-width: 420px){
+    #carbonads {
+     display: none ! important;
+    }
+  }
+
+
