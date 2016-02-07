@@ -13,5 +13,3 @@ def caeser_cipher(to_encrypt,num_shifts)
   end
   encrypted_words.join(' ')
 end
-
-puts caeser_cipher('What a string!',5)
